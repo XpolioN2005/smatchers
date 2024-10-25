@@ -2,7 +2,7 @@
 
 **Smatchers** is a tool designed for detecting flying objects with a object detection algorithum. This project aims to provide users with a highly performant, customizable matching engine for various applications.
 
-![Banner Image]https://ibb.co/fr2DY9r
+<img src= "https://ibb.co/fr2DY9r">
 
 ## Features
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 **Basic Command:**
 
 ```bash
-# Replace <args> with specific arguments
+# add your own test vid as feed or use 0 as vid input to use live vid feed
 python smatchers.py
 ```
 
