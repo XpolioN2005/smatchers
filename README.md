@@ -2,7 +2,7 @@
 
 **Smatchers** is a tool designed for detecting flying objects with a object detection algorithum. This project aims to provide users with a highly performant, customizable matching engine for various applications.
 
-<img src= "https://ibb.co/fr2DY9r">
+<img src="https://i.ibb.co/MPsBDfP/Screenshot-2024-10-25-224648.png" alt="Screenshot-2024-10-25-224648" border="0">
 
 ## Features
 
