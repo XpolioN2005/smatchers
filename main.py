@@ -34,4 +34,4 @@ def main(vid=0):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    main("test.mp4")
+    main(0)
